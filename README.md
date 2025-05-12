@@ -1,0 +1,2 @@
+# zadachaSinergy
+GoogleTest
